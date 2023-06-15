@@ -1,0 +1,153 @@
+[
+    {
+      "name": "Patrick Mahomes",
+      "position": "Quarterback",
+      "rushing_yards": 308,
+      "touchdowns_thrown": 41,
+      "sacks": 22,
+      "made_field_goals": 0,
+      "missed_field_goals": 0,
+      "catches_made": 0
+    },
+    {
+      "name": "Travis Kelce",
+      "position": "Tight End",
+      "rushing_yards": 0,
+      "touchdowns_thrown": 0,
+      "sacks": 0,
+      "made_field_goals": 0,
+      "missed_field_goals": 0,
+      "catches_made": 105
+    },
+    {
+      "name": "Tyreek Hill",
+      "position": "Wide Receiver",
+      "rushing_yards": 123,
+      "touchdowns_thrown": 0,
+      "sacks": 0,
+      "made_field_goals": 0,
+      "missed_field_goals": 0,
+      "catches_made": 87
+    },
+    {
+      "name": "Chris Jones",
+      "position": "Defensive Tackle",
+      "rushing_yards": 0,
+      "touchdowns_thrown": 0,
+      "sacks": 7,
+      "made_field_goals": 0,
+      "missed_field_goals": 0,
+      "catches_made": 0
+    },
+    {
+      "name": "Tyrann Mathieu",
+      "position": "Safety",
+      "rushing_yards": 0,
+      "touchdowns_thrown": 0,
+      "sacks": 2,
+      "made_field_goals": 0,
+      "missed_field_goals": 0,
+      "catches_made": 0
+    },
+    {
+      "name": "Frank Clark",
+      "position": "Defensive End",
+      "rushing_yards": 0,
+      "touchdowns_thrown": 0,
+      "sacks": 6,
+      "made_field_goals": 0,
+      "missed_field_goals": 0,
+      "catches_made": 0
+    },
+    {
+      "name": "Clyde Edwards-Helaire",
+      "position": "Running Back",
+      "rushing_yards": 803,
+      "touchdowns_thrown": 0,
+      "sacks": 0,
+      "made_field_goals": 0,
+      "missed_field_goals": 0,
+      "catches_made": 36
+    },
+    {
+      "name": "Tyrone Mathieu",
+      "position": "Linebacker",
+      "rushing_yards": 0,
+      "touchdowns_thrown": 0,
+      "sacks": 4,
+      "made_field_goals": 0,
+      "missed_field_goals": 0,
+      "catches_made": 0
+    },
+    {
+      "name": "Eric Fisher",
+      "position": "Offensive Tackle",
+      "rushing_yards": 0,
+      "touchdowns_thrown": 0,
+      "sacks": 0,
+      "made_field_goals": 0,
+      "missed_field_goals": 0,
+      "catches_made": 0
+    },
+    {
+      "name": "Anthony Hitchens",
+      "position": "Linebacker",
+      "rushing_yards": 0,
+      "touchdowns_thrown": 0,
+      "sacks": 1,
+      "made_field_goals": 0,
+      "missed_field_goals": 0,
+      "catches_made": 0
+    },
+    {
+      "name": "Harrison Butker",
+      "position": "Kicker",
+      "rushing_yards": 0,
+      "touchdowns_thrown": 0,
+      "sacks": 0,
+      "made_field_goals": 29,
+      "missed_field_goals": 3,
+      "catches_made": 0
+    },
+    {
+      "name": "Charvarius Ward",
+      "position": "Cornerback",
+      "rushing_yards": 0,
+      "touchdowns_thrown": 0,
+      "sacks": 0,
+      "made_field_goals": 0,
+      "missed_field_goals": 0,
+      "catches_made": 0
+    },
+    {
+      "name": "Mecole Hardman",
+      "position": "Wide Receiver",
+      "rushing_yards": 17,
+      "touchdowns_thrown": 0,
+      "sacks": 0,
+      "made_field_goals": 0,
+      "missed_field_goals": 0,
+      "catches_made": 41
+    },
+    {
+      "name": "Travis Kelce",
+      "position": "Tight End",
+      "rushing_yards": 0,
+      "touchdowns_thrown": 0,
+      "sacks": 0,
+      "made_field_goals": 0,
+      "missed_field_goals": 0,
+      "catches_made": 105
+    },
+    {
+      "name": "L'Jarius Sneed",
+      "position": "Cornerback",
+      "rushing_yards": 0,
+      "touchdowns_thrown": 0,
+      "sacks": 0,
+      "made_field_goals": 0,
+      "missed_field_goals": 0,
+      "catches_made": 0
+    }
+  ]
+  
